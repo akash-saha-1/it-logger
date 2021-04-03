@@ -23,7 +23,9 @@
   "scripts": {
     "react-start": "set PORT=400 && react-scripts start",
     "json-server": "json-server --watch db.json --port 700",
-    "start": "concurrently \"npm run react-start\" \"npm run json-server\"",
+    "react-prod-start": "react-scripts start",
+    "json-server-prod": "json-server --watch db.json",
+    "start": "concurrently \"npm run react-prod-start\" \"npm run json-server-prod\"",
     "dev": "concurrently \"npm run react-start\" \"npm run json-server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
