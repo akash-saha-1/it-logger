@@ -6,6 +6,12 @@ This is a it logger website made using react, materialized framework, react redu
 
 ![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/website-view.png?raw=true)
 
+![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/edit-log-view.png?raw=true)
+
+![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/add-technician-view.png?raw=true)
+
+![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/technician-list-view.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
