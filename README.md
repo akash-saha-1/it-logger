@@ -4,11 +4,23 @@ This is a it logger website made using react, materialized framework, react redu
 
 # website-view
 
+# home-page
+
 ![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/website-view.png?raw=true)
+
+# add-log
+
+![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/add-log-view.png?raw=true)
+
+# edit-log
 
 ![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/edit-log-view.png?raw=true)
 
-![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/add-technician-view.png?raw=true)
+# add-technician
+
+![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/add-new-technician-view.png?raw=true)
+
+# technician-list
 
 ![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/technician-list-view.png?raw=true)
 
