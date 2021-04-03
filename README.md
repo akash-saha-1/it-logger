@@ -2,6 +2,10 @@
 
 This is a it logger website made using react, materialized framework, react redux, and json server.
 
+# website-view
+
+![alt text](https://github.com/akash-saha-1/it-logger/blob/main/public/website-view.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
